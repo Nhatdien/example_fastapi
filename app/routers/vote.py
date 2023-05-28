@@ -1,12 +1,6 @@
-import models, schemas, utils, database
-from fastapi import Response, status, HTTPException, Depends, APIRouter
-from fastapi.security.oauth2 import OAuth2PasswordRequestForm
-import routers
-import sqlalchemy
-from typing import List
+from .. import models, schemas, database, oauth2
+from fastapi import status, HTTPException, Depends, APIRouter
 from sqlalchemy.orm import Session
-import utils
-import oauth2
 
 router = APIRouter(prefix="/vote", tags=["Votes"])
 

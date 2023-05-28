@@ -1,13 +1,9 @@
-import models
-import schemas
-import utils
-import database
+from .. import database, models, schemas, oauth2
 from fastapi import Response, status, HTTPException, Depends, APIRouter
-import models
 from typing import List, Optional
 from sqlalchemy.orm import Session
 from sqlalchemy import func
-import oauth2
+
 
 router = APIRouter(
     prefix="/posts",

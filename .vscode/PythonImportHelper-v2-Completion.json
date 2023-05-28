@@ -161,15 +161,6 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "models",
-        "description": "models",
-        "detail": "models",
-        "documentation": {}
-    },
-    {
         "label": "Base",
         "importPath": "models",
         "description": "models",
@@ -186,31 +177,6 @@
         "documentation": {}
     },
     {
-        "label": "settings",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "config",
-        "description": "config",
-        "isExtraImport": true,
-        "detail": "config",
-        "documentation": {}
-    },
-    {
-        "label": "models,",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "models.",
-        "description": "models.",
-        "detail": "models.",
-        "documentation": {}
-    },
-    {
         "label": "Response",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -324,14 +290,6 @@
     },
     {
         "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Response",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -411,14 +369,6 @@
         "documentation": {}
     },
     {
-        "label": "OAuth2PasswordRequestForm",
-        "importPath": "fastapi.security.oauth2",
-        "description": "fastapi.security.oauth2",
-        "isExtraImport": true,
-        "detail": "fastapi.security.oauth2",
-        "documentation": {}
-    },
-    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -436,14 +386,6 @@
     },
     {
         "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -520,91 +462,6 @@
         "description": "sqlalchemy.orm",
         "isExtraImport": true,
         "detail": "sqlalchemy.orm",
-        "documentation": {}
-    },
-    {
-        "label": "utils",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "utils",
-        "description": "utils",
-        "detail": "utils",
-        "documentation": {}
-    },
-    {
-        "label": "oauth2",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "oauth2",
-        "description": "oauth2",
-        "detail": "oauth2",
-        "documentation": {}
-    },
-    {
-        "label": "schemas",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "schemas",
-        "description": "schemas",
-        "detail": "schemas",
-        "documentation": {}
-    },
-    {
-        "label": "database",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "database",
-        "description": "database",
-        "detail": "database",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "database",
-        "description": "database",
-        "isExtraImport": true,
-        "detail": "database",
-        "documentation": {}
-    },
-    {
-        "label": "routers",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "routers",
-        "description": "routers",
-        "detail": "routers",
-        "documentation": {}
-    },
-    {
-        "label": "post",
-        "importPath": "routers",
-        "description": "routers",
-        "isExtraImport": true,
-        "detail": "routers",
-        "documentation": {}
-    },
-    {
-        "label": "user",
-        "importPath": "routers",
-        "description": "routers",
-        "isExtraImport": true,
-        "detail": "routers",
-        "documentation": {}
-    },
-    {
-        "label": "auth",
-        "importPath": "routers",
-        "description": "routers",
-        "isExtraImport": true,
-        "detail": "routers",
-        "documentation": {}
-    },
-    {
-        "label": "vote",
-        "importPath": "routers",
-        "description": "routers",
-        "isExtraImport": true,
-        "detail": "routers",
         "documentation": {}
     },
     {
@@ -693,15 +550,6 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "database,",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "database.",
-        "description": "database.",
-        "detail": "database.",
         "documentation": {}
     },
     {

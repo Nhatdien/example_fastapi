@@ -1,4 +1,4 @@
-import models, schemas, utils, database
+from .. import models, schemas, utils, database
 from fastapi import  Response, status, HTTPException, Depends, APIRouter
 from typing import List
 from sqlalchemy.orm import Session
